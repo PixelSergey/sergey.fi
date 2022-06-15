@@ -1,6 +1,6 @@
 ---
 layout: post
-category: [blog]
+category: blog
 title: "Test article"
 author: PixelSergey
 og_description: "This is a description for the test article"
