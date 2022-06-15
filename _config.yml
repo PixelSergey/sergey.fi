@@ -1,5 +1,13 @@
 remote_theme: andreondra/jekyll-theme-simplex
 
+title: Sergey's Pages
+email: sergey@sergey.fi
+description: >-
+  A Computer Science and Mathematics undergraduate.
+  Working as a Cyber Security Consultant.
+baseurl: ""
+url: "https://sergey.fi"
+
 # logo_img: 
 copyright: © Sergey Ichtchenko 2022
 
