@@ -5,4 +5,4 @@
 - title: Projects
   url: category/projects.html
   icon: assets/index/projects.png
-  hue: "var(--c-themeHueProjects)"
+  hue: "var(--c-themeHuePurple)"
