@@ -1,0 +1,8 @@
+- title: Blog
+  url: category/blog.html
+  # icon: assets/img/icons/programming.svg
+  hue: "var(--c-themeHueBlue)"
+- title: Projects
+  url: category/projects.html
+  #icon: assets/img/icons/design.svg
+  hue: "var(--c-themeHueProjects)"
