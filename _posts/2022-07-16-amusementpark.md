@@ -1,6 +1,6 @@
 ---
 layout: post
-category: [blog]
+category: [cyber]
 title: "How to hack an amusement park"
 author: PixelSergey
 ---

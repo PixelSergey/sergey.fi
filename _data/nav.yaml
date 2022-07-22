@@ -6,3 +6,7 @@
   url: category/projects.html
   icon: assets/index/projects.png
   hue: "var(--c-themeHuePurple)"
+- title: Cyber Security
+  url: category/cyber.html
+  icon: assets/index/cyber.png
+  hue: "var(--c-themeHueGreen)"
