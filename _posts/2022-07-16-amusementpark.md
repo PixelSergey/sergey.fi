@@ -5,6 +5,8 @@ title: "How to hack an amusement park"
 author: PixelSergey
 ---
 
+![Stock image of a rollercoaster](https://upload.wikimedia.org/wikipedia/commons/0/0e/WV_banner_Far_North_suburbs_Demon_rollercoaster_at_Six_Flags_Great_America.jpg)
+
 In the summer of 2019 I came to the realisation:
 I haven't gone to an amusement park in years!
 There was a new ride in my local park that seemed very fun,
