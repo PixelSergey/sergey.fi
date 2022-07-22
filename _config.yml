@@ -8,7 +8,7 @@ description: >-
 baseurl: ""
 url: "https://sergey.fi"
 
-# logo_img: 
+logo_img: assets/supers.png
 copyright: © Sergey Ichtchenko 2022
 
 collections:
