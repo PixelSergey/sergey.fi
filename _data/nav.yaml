@@ -5,8 +5,12 @@
 - title: Projects
   url: category/projects.html
   icon: assets/index/projects.png
-  hue: "var(--c-themeHuePurple)"
+  hue: "var(--c-themeHueGreen)"
 - title: Cyber Security
   url: category/cyber.html
   icon: assets/index/cyber.png
-  hue: "var(--c-themeHueGreen)"
+  hue: "var(--c-themeHuePurple)"
+- title: Contact me
+  url: contact.html
+  icon: assets/index/contact.png
+  hue: "var(--c-themeHueRed)"
