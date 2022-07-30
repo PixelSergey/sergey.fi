@@ -56,18 +56,16 @@ There are a few things that I want to encompass with my definition:
 That last point may deserve some motivation and elaboration.
 Consider the following problem and solution:
 
-$$
-\frac{d}{dx}\sin^2x=2\sin x\cos x=\sin\left(2x\right)
-$$
+![derivative of sin squared x](/assets/posts/ddxsin2x.png)
 
 This is certainly trivial for someone on a high-school level acquainted with
 standard results, such as the derivative of the sine function and the chain rule.
 However, to actually prove this from first principles requires quite a bit of effort
-(knowledge and proof of the result $\lim_{x\rightarrow0}\frac{\sin x}{x}=1$,
+(knowledge and geometric proof of the limit of sin x / x,
 proof of the chain rule, maybe even inventing the definition of the derivative!),
 which is most definitely a non-trivial task.
 
-A similar effect can be seen when considering the slightly simpler problem $1+1=2$,
+A similar effect can be seen when considering the slightly simpler problem `1+1=2`,
 which is trivial for anyone over the age of three but takes about
 [362 pages to prove from axioms in the Principia Mathematica](https://en.wikipedia.org/wiki/Principia_Mathematica).
 
@@ -173,7 +171,7 @@ Here are some problems and their classifications under this final version thereo
 
 | Problem | Frame of reference | Trivial? |
 | -- | -- | -- |
-| $ \int e^x sinx dx $ | High school calculus | Yes |
+| ![integral of e to the x sin x dx](/assets/posts/intexsinxdx.png) | High school calculus | Yes |
 | [Travelling salesman problem](https://www.youtube.com/watch?v=GiDsjIBOVoA) | Competitive programming / discrete mathematics | No (existence of non-exhaustive algorithm violated) |
 | Fermat's last theorem | All of modern mathematics | No (cannot derive isomorphic problems) |
 
