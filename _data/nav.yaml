@@ -1,16 +1,16 @@
 - title: Blog
-  url: category/blog.html
+  url: category/blog
   icon: assets/index/blog.png
   hue: "var(--c-themeHueBlue)"
 - title: Projects
-  url: category/projects.html
+  url: category/projects
   icon: assets/index/projects.png
   hue: "var(--c-themeHueGreen)"
 - title: Cyber Security
-  url: category/cyber.html
+  url: category/cyber
   icon: assets/index/cyber.png
   hue: "var(--c-themeHuePurple)"
 - title: Contact me
-  url: contact.html
+  url: contact
   icon: assets/index/contact.png
   hue: "var(--c-themeHueRed)"
