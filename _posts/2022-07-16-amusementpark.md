@@ -138,6 +138,6 @@ I received *two free day passes* as a bug bounty.
 
 ## Credits
 
-- https://reverseengineering.stackexchange.com/a/19032
+- [Reverse engineering Android APKs](https://reverseengineering.stackexchange.com/a/19032)
 - The amusement park clowns
 - [How to exit vim](https://stackoverflow.com/questions/11828270/how-do-i-exit-the-vim-editor)
