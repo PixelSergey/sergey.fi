@@ -5,6 +5,9 @@ title: "On the definition of triviality"
 author: PixelSergey
 ---
 
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
 One can often hear the word "trivial" being thrown around when studying mathematics.
 Unfortunately, no one quite seems to know what it means.
 
@@ -57,6 +60,8 @@ That last point may deserve some motivation and elaboration.
 Consider the following problem and solution:
 
 ![derivative of sin squared x](/assets/posts/ddxsin2x.png)
+
+$$\sum_{i=1}^nc=cn$$
 
 This is certainly trivial for someone on a high-school level acquainted with
 standard results, such as the derivative of the sine function and the chain rule.
