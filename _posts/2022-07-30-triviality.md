@@ -5,9 +5,6 @@ title: "On the definition of triviality"
 author: PixelSergey
 ---
 
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-
 One can often hear the word "trivial" being thrown around when studying mathematics.
 Unfortunately, no one quite seems to know what it means.
 
@@ -59,9 +56,7 @@ There are a few things that I want to encompass with my definition:
 That last point may deserve some motivation and elaboration.
 Consider the following problem and solution:
 
-![derivative of sin squared x](/assets/posts/ddxsin2x.png)
-
-$$\sum_{i=1}^nc=cn$$
+$$\frac{d}{dx}\sin^2x=2\sin x\cos x=\sin\left(2x\right)$$
 
 This is certainly trivial for someone on a high-school level acquainted with
 standard results, such as the derivative of the sine function and the chain rule.
@@ -70,7 +65,7 @@ However, to actually prove this from first principles requires quite a bit of ef
 proof of the chain rule, maybe even inventing the definition of the derivative!),
 which is most definitely a non-trivial task.
 
-A similar effect can be seen when considering the slightly simpler problem `1+1=2`,
+A similar effect can be seen when considering the slightly simpler problem \(1+1=2\),
 which is trivial for anyone over the age of three but takes about
 [362 pages to prove from axioms in the Principia Mathematica](https://en.wikipedia.org/wiki/Principia_Mathematica).
 
@@ -176,7 +171,7 @@ Here are some problems and their classifications under this final version thereo
 
 | Problem | Frame of reference | Trivial? |
 | -- | -- | -- |
-| ![integral of e to the x sin x dx](/assets/posts/intexsinxdx.png) | High school calculus | Yes |
+| $$\int e^x\sin x\ dx$$ | High school calculus | Yes |
 | [Travelling salesman problem](https://www.youtube.com/watch?v=GiDsjIBOVoA) | Competitive programming / discrete mathematics | No (existence of non-exhaustive algorithm violated) |
 | Fermat's last theorem | All of modern mathematics | No (cannot derive isomorphic problems) |
 
@@ -237,3 +232,7 @@ Found a clear counter-example to my final definition and feel like it deserves a
 Got any other comments on this?
 
 **[Contact me!](https://sergey.fi/contact/)**
+
+
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
