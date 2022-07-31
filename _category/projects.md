@@ -1,6 +1,6 @@
 ---
 category: [projects]
-hue: var(--c-themeHuePurple)
+hue: var(--c-themeHueGreen)
 title: Projects
 description: A set of cool stuff I've built
 ---
