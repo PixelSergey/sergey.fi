@@ -61,11 +61,11 @@ $$\frac{d}{dx}\sin^2x=2\sin x\cos x=\sin\left(2x\right)$$
 This is certainly trivial for someone on a high-school level acquainted with
 standard results, such as the derivative of the sine function and the chain rule.
 However, to actually prove this from first principles requires quite a bit of effort
-(knowledge and geometric proof of the limit of sin x / x,
+(knowledge and geometric proof of $$\lim_{x\rightarrow0}\frac{\sin x}{x}=1$$,
 proof of the chain rule, maybe even inventing the definition of the derivative!),
 which is most definitely a non-trivial task.
 
-A similar effect can be seen when considering the slightly simpler problem \(1+1=2\),
+A similar effect can be seen when considering the slightly simpler problem $$1+1=2$$,
 which is trivial for anyone over the age of three but takes about
 [362 pages to prove from axioms in the Principia Mathematica](https://en.wikipedia.org/wiki/Principia_Mathematica).
 
