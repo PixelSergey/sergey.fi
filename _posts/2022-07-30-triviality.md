@@ -3,7 +3,7 @@ layout: post
 category: [blog]
 title: "On the definition of triviality"
 author: PixelSergey
-prevPart: _posts/2022-07-29-comms.md
+prevPart: /_posts/2022-07-29-comms.md
 # nextPart:
 ---
 
