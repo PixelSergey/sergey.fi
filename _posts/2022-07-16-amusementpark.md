@@ -4,6 +4,7 @@ category: [cyber]
 title: "How to hack an amusement park"
 author: PixelSergey
 slug: lintsi
+permalink: /lintsi/
 ---
 
 In the summer of 2019 I came to the realisation:
