@@ -3,6 +3,7 @@ layout: post
 category: [blog]
 title: "On the definition of triviality"
 author: PixelSergey
+permalink: /triv/
 ---
 
 One can often hear the word "trivial" being thrown around when studying mathematics.

@@ -3,7 +3,6 @@ layout: post
 category: [cyber]
 title: "How to hack an amusement park"
 author: PixelSergey
-slug: lintsi
 permalink: /lintsi/
 ---
 
