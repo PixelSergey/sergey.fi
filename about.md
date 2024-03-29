@@ -6,7 +6,7 @@ permalink: /about/
 
 # About me
 <style>
-    .mypost{
+    mypost {
         justify-self: center;
         margin: 0 2rem;
         max-width: 1000px;
@@ -18,7 +18,7 @@ permalink: /about/
     }
 
     @media screen and (max-width: 1000px){
-        .mypost{
+        mypost {
             max-width: calc(100% - 2rem);
 
             &__content{
@@ -31,7 +31,7 @@ permalink: /about/
         }
     }
 </style>
-<div class="mypost">
+<div id="mypost">
 
 ## Contact
 
