@@ -2,9 +2,8 @@
 layout: post
 title: About me
 permalink: /about/
+category: []
 ---
-
-# About me
 
 ## Contact
 
