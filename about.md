@@ -6,6 +6,8 @@ permalink: /about/
 
 # About me
 
+<div class="post__content">
+
 ## Contact
 
 - **Email:** [sergey@sergey.fi](mailto:sergey@sergey.fi)
@@ -90,3 +92,5 @@ Here are some things I've done:
 ### Education
 
 - TBC
+
+</div>
