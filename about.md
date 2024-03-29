@@ -10,6 +10,8 @@ permalink: /about/
 - **LinkedIn:** <https://www.linkedin.com/in/sergey-ichtchenko/>
 - **GitHub:** <https://github.com/PixelSergey>
 
+---
+
 ## Achievements
 
 Here are some things I've done:
@@ -37,6 +39,8 @@ Here are some things I've done:
   - **Certification:** AWS Certified Solutions Architect - Associate
   - **Issuer:** Amazon Web Services (AWS)
 
+---
+
 ### Talks
 
 - I was almost a cybercriminal
@@ -45,6 +49,8 @@ Here are some things I've done:
 - There ain't no such thing as a free lunch*
   - **Conference:** Helsec March 2024
   - **URL:** [Will be added when available]
+
+---
 
 ### Organisational work
 
@@ -66,6 +72,8 @@ Here are some things I've done:
   - **Roles:** Student representation, study committee member
   - **URL:** <https://matlu.fi/>
 
+---
+
 ### Writings
 
 - Category Theory and Haskell
@@ -73,17 +81,25 @@ Here are some things I've done:
   - **Subject:** Mathematics
   - **URL:** <https://github.com/PixelSergey/BSC-Thesis>
 
+---
+
 ### Projects
 
 - TBC
+
+---
 
 ### Awards
 
 - TBC
 
+---
+
 ### Work
 
 - TBC
+
+---
 
 ### Education
 
