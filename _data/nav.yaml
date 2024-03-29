@@ -12,5 +12,5 @@
   hue: "var(--c-themeHuePurple)"
 - title: About me
   url: about
-  icon: assets/index/contact.png
+  icon: assets/index/about.png
   hue: "var(--c-themeHueRed)"
