@@ -232,7 +232,7 @@ Disagree with the implications I presented?
 Found a clear counter-example to my final definition and feel like it deserves an improvement?
 Got any other comments on this?
 
-**[Contact me!](https://sergey.fi/contact/)**
+**[Contact me!](https://sergey.fi/about/)**
 
 
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
