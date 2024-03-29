@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: info
 title: About me
 permalink: /about/
-category: [aybabtu]
 ---
 
 ## Contact
