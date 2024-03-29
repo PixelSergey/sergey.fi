@@ -2,7 +2,7 @@
   url: category/blog
   icon: assets/index/blog.png
   hue: "var(--c-themeHueBlue)"
-- title: Cyber Security
+- title: Cyber
   url: category/cyber
   icon: assets/index/cyber.png
   hue: "var(--c-themeHuePurple)"
