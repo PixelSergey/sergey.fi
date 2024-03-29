@@ -5,8 +5,33 @@ permalink: /about/
 ---
 
 # About me
+<style>
+    .mypost{
+        justify-self: center;
+        margin: 0 2rem;
+        max-width: 1000px;
+        @include flexbox{
+            flex-direction: column;
+            justify-content: flex-start;
+            align-items: center;
+        }
+    }
 
-<div class="post__content">
+    @media screen and (max-width: 1000px){
+        .mypost{
+            max-width: calc(100% - 2rem);
+
+            &__content{
+                max-width: 100%;
+            }
+            
+            &__content p{
+                overflow-wrap: break-word;
+            }
+        }
+    }
+</style>
+<div class="mypost">
 
 ## Contact
 
