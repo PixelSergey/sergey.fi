@@ -9,6 +9,7 @@ baseurl: ""
 url: "https://sergey.fi"
 
 logo_img: /assets/supers.png
+favicon: /assets/supers.png
 copyright: © Sergey Ichtchenko
 
 collections:
