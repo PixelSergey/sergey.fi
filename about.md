@@ -2,7 +2,7 @@
 layout: post
 title: About me
 permalink: /about/
-category: []
+category: [aybabtu]
 ---
 
 ## Contact
