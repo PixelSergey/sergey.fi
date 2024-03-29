@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Contact
-permalink: /contact/
+title: About me
+permalink: /about/
 ---
 
-# Contacts
+# Contact
 
 Email me at **[sergey@sergey.fi](mailto:sergey@sergey.fi)** :)

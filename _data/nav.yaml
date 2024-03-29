@@ -10,7 +10,7 @@
   url: category/cyber
   icon: assets/index/cyber.png
   hue: "var(--c-themeHuePurple)"
-- title: Contact me
-  url: contact
+- title: About me
+  url: about
   icon: assets/index/contact.png
   hue: "var(--c-themeHueRed)"
