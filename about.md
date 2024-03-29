@@ -1,37 +1,10 @@
 ---
-layout: default
+layout: post
 title: About me
 permalink: /about/
 ---
 
 # About me
-<style>
-    mypost {
-        justify-self: center;
-        margin: 0 2rem;
-        max-width: 1000px;
-        @include flexbox{
-            flex-direction: column;
-            justify-content: flex-start;
-            align-items: center;
-        }
-    }
-
-    @media screen and (max-width: 1000px){
-        mypost {
-            max-width: calc(100% - 2rem);
-
-            &__content{
-                max-width: 100%;
-            }
-            
-            &__content p{
-                overflow-wrap: break-word;
-            }
-        }
-    }
-</style>
-<div id="mypost">
 
 ## Contact
 
@@ -117,5 +90,3 @@ Here are some things I've done:
 ### Education
 
 - TBC
-
-</div>
