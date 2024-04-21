@@ -45,7 +45,7 @@ Here are some things I've done:
 
 - I was almost a cybercriminal
   - **Conference:** Disobey 2024 
-  - **URL:** [Will be added when available]
+  - **URL:** <https://www.youtube.com/watch?v=Nh7OrFVyDo0>
 - There ain't no such thing as a free lunch*
   - **Conference:** Helsec March 2024
   - **URL:** [Will be added when available]
@@ -103,4 +103,18 @@ Here are some things I've done:
 
 ### Education
 
-- TBC
+- University of Oxford _(upcoming)_
+  - **Programme:** MSc in Mathematics and Foundations of Computer Science
+  - **Level:** Master's
+  - **Duration:** 2024-2025
+- University of Helsinki
+  - **Programme:** Bachelor's Programme in Science (BSc)
+  - **Level:** Bachelor's
+  - **Study track:** Mathematics
+  - **Duration:** 2022-2024
+  - **GPA:** 5.0
+- Ressu Upper Secondary School
+  - **Programme:** IB Diploma
+  - **Level:** High school
+  - **Duration:** 2018-2021
+  - **Final score:** 44 out of 45
