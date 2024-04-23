@@ -16,6 +16,7 @@ permalink: /about/
 
 - **XMR:** `43RA1s499mgSQKPTwWqeVJ117pq1gwTY6DaoRfUhtE1Gjip7d51eH7hXvqr4Si6akXefoaSpZoEXuQxLDnTz1pUUL7xSWRZ`
 - **BTC:** `bc1qxeajpjscqyk7sp8y7m0w3l0q34fd65k3396htr`
+- **ETH:** `0x250b01f7515ac9a0cc1319da7fbeef344611488d`
 
 ---
 
