@@ -12,6 +12,13 @@ permalink: /about/
 
 ---
 
+## Donate
+
+- **XMR:** `43RA1s499mgSQKPTwWqeVJ117pq1gwTY6DaoRfUhtE1Gjip7d51eH7hXvqr4Si6akXefoaSpZoEXuQxLDnTz1pUUL7xSWRZ`
+- **BTC:** `bc1qxeajpjscqyk7sp8y7m0w3l0q34fd65k3396htr`
+
+---
+
 ## Achievements
 
 Here are some things I've done:
