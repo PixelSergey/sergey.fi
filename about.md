@@ -27,7 +27,7 @@ Here are some things I've done:
 ### Licenses and certifications
 
 - Aviation
-  - **License:** LAPL(A) / Light Aircraft Pilot Licence for Aeroplanes
+  - **License:** PPL(A) / Private Pilot's Licence for Aeroplanes
   - **Issuer:** Finnish Transport and Communications Agency (Traficom)
   - **Type ratings:** Cessna 152, Cessna 172
   - **Member of:** Jukolan pilotit ry
