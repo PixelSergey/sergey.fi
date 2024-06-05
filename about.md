@@ -87,7 +87,6 @@ Here are some things I've done:
 - Category Theory and Haskell
   - **Type:** Bachelor's thesis
   - **Subject:** Mathematics
-  - **URL:** <https://github.com/PixelSergey/BSC-Thesis>
 
 ---
 
