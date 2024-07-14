@@ -7,7 +7,7 @@ permalink: /about/
 ## Contact
 
 - **Email:** [sergey@sergey.fi](mailto:sergey@sergey.fi)
-  - [**PGP key**](/sergey.pgp)
+  - **PGP key:** `curl https://sergey.fi/sergey.pgp` or download [here](/sergey.pgp)
 - **LinkedIn:** <https://www.linkedin.com/in/sergey-ichtchenko/>
 - **GitHub:** <https://github.com/PixelSergey>
 
