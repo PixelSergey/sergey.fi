@@ -1,5 +1,5 @@
 ---
-layout: blank
+layout: null
 permalink: /sergey.pgp/
 ---
 
