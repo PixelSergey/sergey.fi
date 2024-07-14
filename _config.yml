@@ -12,6 +12,9 @@ logo_img: /assets/supers.png
 favicon: /assets/supers.png
 copyright: © Sergey Ichtchenko
 
+include: ["sergey.pgp"]
+timezone: "Europe/Helsinki"
+
 collections:
     category:
         output: true
