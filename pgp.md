@@ -1,10 +1,8 @@
 ---
-layout: info
-title: PGP key
+layout: blank
 permalink: /sergey.pgp/
 ---
 
-```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBGaT2VMBEACb4EJXj8c1J4fHwD+q5Ye/EGQ/oTBehP/S7eBnWfPKrCE+Dcil
@@ -71,4 +69,3 @@ qVd8CDfI/wWWEDEMDXyg5hS6eG34Md75+LBpOBe33WGZKIoKBjgNWpqM5KdnunAV
 wdZ9ygicHfH5i81mf+X6DBJdsw==
 =/T84
 -----END PGP PUBLIC KEY BLOCK-----
-```
