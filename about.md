@@ -92,21 +92,21 @@ Here are some things I've done:
 
 ---
 
-### Projects
+### Select projects
 
-- TBC
-
----
-
-### Awards
-
-- TBC
+- An APL course for university students: <https://aplmooc.fi>
+- An ATIS (aviation weather) broadcaster for NodeMCU: <https://github.com/PixelSergey/ATIS>
+  - Hit me up if you know how to manufacture circuit boards and casings and stuff :)
+- `meow` - a command line tool to print cats to your screen <https://github.com/PixelSergey/meow>
+  - Trying to infiltrate as many package managers as possible
+  - `sudo apt install meow`!
 
 ---
 
 ### Work
 
-- TBC
+- WithSecure Oyj, Security Consultant
+- Kodarit Oy, Programming teacher
 
 ---
 
