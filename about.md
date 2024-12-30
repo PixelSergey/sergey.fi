@@ -28,42 +28,46 @@ Here are some things I've done:
 
 ### Licenses and certifications
 
-- Aviation
-  - **License:** PPL(A) / Private Pilot's Licence for Aeroplanes
-  - **Issuer:** Finnish Transport and Communications Agency (Traficom)
-  - **Type ratings:** Cessna 152, Cessna 172
-  - **Member of:** Jukolan pilotit ry
+- Private Pilot's Licence
+  - **License:** Finnish ICAO PPL(A) and UK CAA PPL(A) 
+  - **Types:** Cessna 152, Cessna 172, Cessna 182 SMA Diesel
+  - **Special:** Flying skydiving operations
+  - **Clubs:** Jukolan pilotit ry, Enstone Flying Club
 - Diving
-  - **Licenses:** Rescue Diver, Nitrox Gas Blender
-  - **Issuer:** Confédération Mondiale Des Activités Subaquatiques (CMAS)
-  - **Member of:** H2O ry
+  - **License:** CMAS P3
+  - **Club:** H2O ry
 - Amateur radio
-  - **License:** Basic class
-  - **Issuer:** Finnish Transport and Communications Agency (Traficom)
+  - **License:** Fininsh basic class
   - **Callsign:** OH2UWU
-  - **Member of:** Kaunaisten radiokerho ry
-- Internet
-  - **Role:** `.fi` domain name registrar
-  - **Issuer:** Finnish Transport and Communications Agency (Traficom)
-- Cyber
-  - **Certification:** AWS Certified Solutions Architect - Associate
-  - **Issuer:** Amazon Web Services (AWS)
+  - **Club:** Kaunaisten radiokerho
+- Internet & cyber
+  - `.fi` domain name registrar
+  - AWS Certified Solutions Architect
 
 ---
 
 ### Talks
 
+- APL MOOC
+  - **Conference:** Dyalog'24
+  - **URL:** <https://www.youtube.com/watch?v=2wdtPPqdECo>
+- How to raise a cybercriminal
+  - **Conference:** Interpol - International Cyber Offender Prevention Network Conference 2024
+  - One of 3 civilians ever invited to the conference 
+- There ain't no such thing as a free lunch*
+  - **Conference:** Helsec March 2024
 - I was almost a cybercriminal
   - **Conference:** Disobey 2024 
   - **URL:** <https://www.youtube.com/watch?v=Nh7OrFVyDo0>
-- There ain't no such thing as a free lunch*
-  - **Conference:** Helsec March 2024
-  - **URL:** [Will be added when available]
 
 ---
 
 ### Organisational work
 
+- Oxford University Gliding Club
+  - **Description:** Club for glider pilots and aviation enthusiasts at Oxford
+  - **Roles:** Secretary, head pilot
+  - **URL:** <https://www.ougc.org>
 - Testausserveri ry
   - **Description:** Nonprofit organisation for young cyber security enthusiasts in Finland
   - **Roles:** Board member, events responsible, collaboration & outreach
@@ -77,18 +81,14 @@ Here are some things I've done:
   - **Description:** Student organisation for BSc students at the University of Helsinki
   - **Roles:** Board member, IT responsible, study responsible
   - **URL:** <https://integralis.fi>
-- Matlu ry
-  - **Description:** Student organisation for the faculty of science at the University of Helsinki
-  - **Roles:** Student representation, study committee member
-  - **URL:** <https://matlu.fi/>
 
 ---
 
 ### Writings
 
 - Category Theory and Haskell
-  - **Type:** Bachelor's thesis
-  - **Subject:** Mathematics
+  - **Type:** Bachelor's thesis, Mathematics
+  - **URL:** <https://github.com/PixelSergey/BSc-Thesis/releases/download/v1.0.1/thesis.pdf>
 
 ---
 
@@ -112,14 +112,11 @@ Here are some things I've done:
 
 ### Education
 
-- University of Oxford _(upcoming)_
+- University of Oxford
   - **Programme:** MSc in Mathematics and Foundations of Computer Science
-  - **Level:** Master's
   - **Duration:** 2024-2025
 - University of Helsinki
-  - **Programme:** Bachelor's Programme in Science (BSc)
-  - **Level:** Bachelor's
-  - **Study track:** Mathematics
+  - **Programme:** Bachelor's Programme in Science - Mathematics
   - **Duration:** 2022-2024
   - **GPA:** 5.0
 - Ressu Upper Secondary School
