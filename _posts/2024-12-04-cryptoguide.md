@@ -1,7 +1,7 @@
 ---
 layout: post
 category: [cyber]
-title: "A tinfoil hat guide to cryptography"
+title: "A tinfoil hat guide to cryptography [incomplete]"
 author: PixelSergey
 permalink: /crypto/
 ---
